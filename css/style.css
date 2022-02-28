@@ -114,9 +114,9 @@ section {
   background-color: white;
 }
 
-/* .main-menu label[for="drop-nav"] {
+.main-menu label[for="drop-nav"] {
   display:none;
-} */
+}
 
 #drop-nav {
   display: none;
@@ -272,7 +272,7 @@ section {
   flex-basis: 100%;
   }
   
-  label[for="drop-nav"] {
+  .main-menu label[for="drop-nav"] {
     display:block;
     padding: 14px 20px;
     color:white;
